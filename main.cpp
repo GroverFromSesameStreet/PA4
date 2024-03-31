@@ -1,3 +1,4 @@
+/*
 # Author:              Type-Your-Name
 # BannerID:            Type-Your-BannerID
 # Course:              CS 181
@@ -8,6 +9,7 @@
                        Oriented concepts with C++.
 # Certification of Authenticity:
     I certify that this assignment is entirely my own work.
+*/
 
 #include <iostream>
 #include <iomanip>
